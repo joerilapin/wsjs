@@ -1,4 +1,4 @@
-# wsjs
+# wsVanjs
 An interactive workshop about Javascript 
 
 WHO:  Joeri Lapin, BeCode 2019-2020, Antwerp
