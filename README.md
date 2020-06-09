@@ -14,10 +14,14 @@ Every puzzle takes a concept or a defintion from Javascript in account.
 2.The students will help eachother, instead of a Sololearn, they group up 2 by 2 in a Discord Channel:
 Duolearn:-)
 3.The 4 hours will be spend looking, reading, listening, thinking, interacting in team, answering: actively
+
 Plot 1:
+
 ‘Do & make’ --> ‘tell & show’
 Puzzles to be solved, followed by the explanation
+
 Plot 2:
+
 ‘show and tell’ --> ‘do & make’
 
 Plot 3:
