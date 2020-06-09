@@ -1,6 +1,8 @@
 # wsjs
 a interactive workshop about Javascript 
-Workshop Javascript, by Joeri Lapin, BeCode 2019-2020, Antwerp
+
+Workshop Javascript, by Joeri Lapin, BeCode 2019-2020, Antwerp, planned date Wednesday 24/06/2020(to beconfirmed!!
+
 What: a 4h workshop with Javascript related basic but cool stuff, that could serve your interview;-)
 Subject: Javascript (in the broad sense)
 Language: Vanilla Javascript
