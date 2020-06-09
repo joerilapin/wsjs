@@ -10,14 +10,16 @@ Language: Vanilla Javascript
 I learn by investigating puzzles, and I give the coworkers the opportunity to learn in a fun and exciting
 way, letting them do the puzzels themselves.
 Every puzzle takes a concept or a defintion from Javascript in account.
-1. It is a workshop, sothey will be doing something like reading, analysing, answering
+1. It is a workshop, so they will be doing something like reading, analysing, answering
 2.The students will help eachother, instead of a Sololearn, they group up 2 by 2 in a Discord Channel:
 Duolearn:-)
 3.The 4 hours will be spend looking, reading, listening, thinking, interacting in team, answering: actively
 
 Plot 1:
 
-‘Do & make’ --> ‘tell & show’
+1.Warm up quiz with basic Javascipt multiple choice questions in Kahoot or alike
+
+2.‘Do & make’ --> ‘tell & show’
 Puzzles to be solved, followed by the explanation
 
 Plot 2:
