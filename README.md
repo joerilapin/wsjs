@@ -1,15 +1,16 @@
 # wsjs
-a interactive workshop about Javascript 
+An interactive workshop about Javascript 
 
-Workshop Javascript, by Joeri Lapin, BeCode 2019-2020, Antwerp, planned date Wednesday 24/06/2020(to beconfirmed!!
+WHO:  Joeri Lapin, BeCode 2019-2020, Antwerp
+WHAT: a 4h workshop about Javascript related basic but cool stuff, that could serve your interview;-), 
+DATE: planned date Wednesday 24/06/2020(to beconfirmed!!)
 
-What: a 4h workshop with Javascript related basic but cool stuff, that could serve your interview;-)
-Subject: Javascript (in the broad sense)
-Language: Vanilla Javascript
 
-I learn by investigating puzzles, and I give the coworkers the opportunity to learn in a fun and exciting
-way, letting them do the puzzels themselves.
-Every puzzle takes a concept or a defintion from Javascript in account.
+Learning by doing Quizes/investigating puzzles: the coworkers are given the opportunity to learn in a fun and exciting
+way, letting them do the puzzels themselves and in duo.
+
+Every quiz/puzzle takes a concept or a defintion from Javascript in account.
+
 1. It is a workshop, so they will be doing something like reading, analysing, answering
 2.The students will help eachother, instead of a Sololearn, they group up 2 by 2 in a Discord Channel:
 Duolearn:-)
