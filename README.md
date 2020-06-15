@@ -1,9 +1,9 @@
-# wsVanjs
-An interactive workshop about Javascript 
+# wsVanjs-PITCH
+WHAT: an interactive 4h workshop about Vanilla Javascript: basic but cool stuff, that could serve your interview as well;-)
+
 
 WHO:  Joeri Lapin, BeCode 2019-2020, Antwerp
 
-WHAT: a 4h workshop about Javascript related basic but cool stuff, that could serve your interview;-)
 
 DATE: planned date Wednesday 24/06/2020
 
