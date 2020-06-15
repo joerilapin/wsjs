@@ -10,7 +10,9 @@ Learning by doing Quizes/investigating puzzles: the coworkers are given the oppo
 way, letting them do the puzzels themselves and in duo.
 
 Every quiz/puzzle takes a concept or a defintion from Javascript in account.
-subjects/themes
+
+
+SUBJECTS OR THEMES:
 
 1..Making acquaintance with Javascript: algemene termen, definities, ... om te zien wat ze kennen
 
