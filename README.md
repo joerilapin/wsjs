@@ -36,6 +36,7 @@ Tips and tricks:
 
 
 
+
 A. Reactivation of knowledge by basic speedy quiz
 B. more difficult questions source Sololearn etc...
 C. A brainbraker taken on in a Duolearn approach
