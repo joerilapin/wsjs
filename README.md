@@ -11,6 +11,7 @@ way, letting them do the puzzels themselves and in duo.
 
 Every quiz/puzzle takes a concept or a defintion from Javascript in account.
 subjects/themes
+
 1..Making acquaintance with Javascript: algemene termen, definities, ... om te zien wat ze kennen
 
 2..operators: what?
