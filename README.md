@@ -2,8 +2,11 @@
 An interactive workshop about Javascript 
 
 WHO:  Joeri Lapin, BeCode 2019-2020, Antwerp
-WHAT: a 4h workshop about Javascript related basic but cool stuff, that could serve your interview;-), 
+
+WHAT: a 4h workshop about Javascript related basic but cool stuff, that could serve your interview;-)
+
 DATE: planned date Wednesday 24/06/2020
+
 
 
 Learning by doing Quizes/investigating puzzles: the coworkers are given the opportunity to learn in a fun and exciting
