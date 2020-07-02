@@ -45,13 +45,11 @@ kahoot quizes was a nice platform to do it as well, keeps it interesting for us
 improvement would be to have a small explanation for some of the kahoot quizs answers
 but i'm sure you realized that.. some of the ones we all really wanted to discuss why, but we kind of just kept moving 
 
-Dimitry
-
 Steve K
 
-Ik heb het natuurlijk niet helemaal gezien, was heel interessant, maar mss int vervolg als je zo'n kahoot dingen doet ook meer ingaanop de oplossingen en waarom iets juist/fout is 
+Ik heb het natuurlijk niet helemaal gezien, was heel interessant, maar mss int vervolg als je zo'n kahoot dingen doet ook meer ingaanop de oplossingen en waarom iets juist/fout is
 
-
+Dimitry
 
 Jens
 
