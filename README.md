@@ -49,6 +49,10 @@ Dimitry
 
 Steve K
 
+Ik heb het natuurlijk niet helemaal gezien, was heel interessant, maar mss int vervolg als je zo'n kahoot dingen doet ook meer ingaanop de oplossingen en waarom iets juist/fout is 
+
+
+
 Jens
 
 
