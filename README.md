@@ -5,11 +5,13 @@ FEEDBACK ABOUT MY WORKSHOP
 Guys, thx for being on my workshop! Do you have a short feedback for me, like tip something to improve, and top, something you liked, Joeri:
 
 IRINA
+
 Ho, het enige dat ik kan zeggen is mss wat tijd overlaten voor de vragen van kahoot als mensen hun fouten willen overlopen
 Voor de rest was het eigenlijk heel tof en ook goed qua niveau
 En een heel goede uitleg over de vragen in de ppt zelf
 
 IMANE
+
 Ik vond het in het algemeen goed! ik ging niet mee doen, maar ik was invested. ik vond de quizzes leuk
 ik miste gewoon beetje structuur
 ma hmm, mss wat beter had geweest is als je echt de quizz antwoorden had overlopen met ons, maar dan had je minder quizzes moeten geven
@@ -21,6 +23,7 @@ yes, sws, maar dat zijn dingen die je altijd beter kan doen; but overall i reall
 :p
 
 Emma Watson
+
 I actually really liked it, it was a very unique workshop and really fun
 it was light and heavy at the same time haha
 because the questions were so hard but the manner we addressed them was light
@@ -29,9 +32,11 @@ but it is good that you had that with the questions in the powerpoint
 it was a cool workshop
 
 Chi
+
 Hey, np you're welcome,hmmm maybe do a test run of your workshop then you would see what technical problems could arise like the screensharing thing haha. Kahoot quizzes were really nice I enjoyed them haha
 
 Neil Benin
+
 no problem!   i thought it was a really cool workshop, its always fun to see these funny things that the language does
 kahoot quizes was a nice platform to do it as well, keeps it interesting for us
 improvement would be to have a small explanation for some of the kahoot quizs answers
